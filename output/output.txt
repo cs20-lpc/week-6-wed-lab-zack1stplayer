@@ -1,0 +1,6 @@
+PS C:\Users\zack1\OneDrive\Documents\GitHub\week-6-wed-lab-zack1stplayer>  & 'c:\Users\zack1\.vscode\extensions\ms-vscode.cpptools-1.27.7-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-bpiy13mw.vk0' '--stdout=Microsoft-MIEngine-Out-0nq2jzkp.t4g' '--stderr=Microsoft-MIEngine-Error-uazeivhd.qo0' '--pid=Microsoft-MIEngine-Pid-uihcinul.kjg' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi' 
+6 * 123000 = 738000
+3 ^ 10 = 59049
+8 * 9 * ... * 15 = 259459200
+10! = 3628800
+50th Fibonacci number is 3996334433
